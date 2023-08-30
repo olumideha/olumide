@@ -1,0 +1,388 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.vvvv{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(253, 253, 253);
+    padding: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-bottom: rgba(0, 0, 0, 0.257) solid;
+    text-transform: capitalize;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+.computer{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.652), rgba(0, 0, 0, 0.942)), url(./img/1692806473214.jpg) ;
+    width: 100%;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+    animation: slide 3s ease-in-out infinite alternate;
+    animation-direction: reverse;
+  
+
+}
+.logo{
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color:  orange;
+}
+.computer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+
+    
+}
+/* transition_timing-funcktion
+ transition-timing-function 
+ transition-duration
+ transition-delay 
+ */
+ 
+.computer:hover{
+    background-color: blue;
+}
+.coded img {
+    border-radius: 100%;
+
+}
+.force{
+    padding: 20px;
+    width: 500px;
+    text-align: justify;
+}
+.bigboys{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.badest{
+    display: flex;
+}
+.our-bread{
+    text-align: center;
+    width: 100%;
+}
+.our-bread div .code8 {
+    font-size: 50px;
+    text-transform: capitalize;
+}
+.BBC-NEWS{
+    background-color: antiquewhite;
+    width: 100%;
+    justify-content: center;
+}
+.code8{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.most{
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+}
+.pray1{
+    border-radius: 100%;
+}
+.eeee{
+    width: 200px;
+    padding: 10px;
+}
+.badman{
+    display: flex;
+    justify-content: center;
+}
+
+.coded-click{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    gap: 100px;
+    padding: 50px 0;
+    padding-bottom: 80px;
+
+}
+.pray2{
+    border-radius: 100%;
+    /* display: flex; */
+    /* gap: 800px; */
+}
+.dj{
+    width: 200px;
+    padding-top: 20px;
+}
+.click{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0;
+    
+}
+.click .ccc{
+   background-color: white;
+   padding: 20px;
+}
+.foxes{
+    background-color: rgb(100, 96, 96);
+    /* display: flex; */
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.milee{
+    text-transform: capitalize;
+    color: white;
+    padding: 100px 0;
+}
+    
+.code20{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.652), rgba(0, 0, 0, 0.942)), url(./img/1692806473214.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.big-big{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.full-stop{
+    background-color: white;
+    display: block;
+    color: black;
+
+}
+.ebaaaa{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.652), rgba(0, 0, 0, 0.942)), url(./img/1692806473214.jpg) ;
+}
+.TVC{
+    display: flex;
+    justify-content: end;
+    text-align: justify;
+    font-size: 30px;
+}
+.ebaaaa section div {
+    border-radius: 50px;
+    padding: 40px;
+    
+}
+ol{
+    list-style: none;
+}
+.cooooooo{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+
+    
+
+}
+.qwer{
+    background-color: white;
+    padding: 46px;
+    text-align: justify;
+    text-align: center;
+}
+.dj{
+    padding-bottom: 10px;
+}
+.weeeeeeee{
+    background-color: rgb(209, 179, 124);
+} 
+
+.woody{
+    display: flex;
+    text-align: justify;
+    width: 100%;
+    justify-content: center;
+    gap: 150px;
+    padding: 20px 0;
+    background-color: white;
+
+}
+
+body{
+    background-color:  rgb(209, 179, 124);
+}
+.pray3{
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    transform: scale(1.1, 1.2);
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.WWWCOME{
+    display: flex;
+    text-align: justify;
+    width: 100%;
+    justify-content: center;
+    gap: 150px;
+    padding: 20px 0;
+    background-color: black;
+    color: white;
+
+}
+.flowers{
+    font-size: 20px;
+}
+.COOKIES{
+    font-size: 20px;
+
+}
+.code-2023{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    color: white;
+    align-items: center;
+
+
+}
+.code2023{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    gap: 100px;
+}
+.suses{
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    padding: 20px;
+    
+}
+.homeee{
+    border-radius : 200px;
+    
+}
+.custom-shape-divider-top-1692982112 {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 300px;
+
+}
+
+.custom-shape-divider-top-1692982112 svg {
+    position: relative;
+    display: block;
+    width: calc(171% + 1.3px);
+    height: 55px;
+}
+
+.custom-shape-divider-top-1692982112 .shape-fill {
+    fill: black;
+}
+.homee{
+    background-color: black;
+    padding: 20px;
+}
+.amapiano{
+    width: 30px;
+    font-size: 20px;
+}
+.RUNING{
+    color: white;
+    padding: 50px;
+    font-size: 70px;
+}
+
+
+
+@media (max-width: 1035px){
+    body{
+        margin: 0 auto;
+        background-color: none;
+        width: 100%;
+
+    }
+    .bigboys{
+        flex-direction: column;
+    }
+    .bigboys p{
+        margin: 0 auto;
+    }
+    .coded-click{
+        flex-direction: column;
+    }
+    .coded-click p {
+        margin: 0 auto;
+    }
+    .click{
+        flex-direction: column;
+    }
+    .click p{
+        margin: o auto;
+    }
+    .ccc p {
+        margin: 0 auto;
+    }
+    .ccc {
+        margin: 0 auto;
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .woody{
+        flex-direction: column;
+    }
+    .code2023{
+        flex-direction: column;   
+        display: flex;
+        justify-content: center;
+        max-width: 0 auto;
+        width: 100%;
+    }
+    .suses{
+        margin: 0 auto;
+    
+    
+    }
+    .cooooooo{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+ 
+    }
+    .qwer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .vvvv{
+        display: none;
+    }
+
+    .force{
+        width: 100%;
+        margin: 0 auto;
+    }
+}
